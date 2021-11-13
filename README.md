@@ -13,3 +13,12 @@
 
 [原地址](https://github.com/yl1033669613/game_with_cocosCreater)
 
+### 一些实例教程
+
+https://blog.csdn.net/kuokuo666/category_8348391.html
+
+### 其他集合
+
+- 2D卷轴闯关小游戏 https://github.com/Zhniing/Play
+- 俄罗斯方块 https://github.com/KuoKuo666/CocosCreator-Tetris.git
+- 治愈七夕，微信小游戏，音乐游戏 https://github.com/SmileChen518/MusicGame
